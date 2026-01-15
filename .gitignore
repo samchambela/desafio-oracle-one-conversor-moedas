@@ -30,4 +30,4 @@ bin/
 .DS_Store
 
 ### API KEYS (NÃO VERSIONAR)
-src/api/ApiKeys.java
+src/api/ApiKey.java

@@ -28,3 +28,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### API KEYS (NÃO VERSIONAR)
+src/api/ApiKeys.java

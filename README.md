@@ -24,6 +24,6 @@ O objetivo principal foi desenvolver um **Conversor de Moedas** funcional utiliz
 ## 🛠️ IDE e Tecnologias Utilizadas
 
 * **IntelliJ IDEA**
-* **Java JDK**: [Versão 17]
+* **Java JDK**: [Versão 17].
 * **Biblioteca Gson**: Para interpretação de JSON.
 * **ExchangeRate-API**: Para obtenção das moedas e taxas de câmbio.

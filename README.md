@@ -11,7 +11,7 @@
 
 Este projeto é a solução para o **Challenge de Back-end** do programa **ONE (Oracle Next Education)** em parceria com a **Alura**. 
 
-O objetivo principal foi desenvolver um **Conversor de Moedas** funcional utilizando a linguagem Java. O sistema permite a conversão de valores entre diferentes moedas internacionais e o Real Brasileiro (BRL), [consumindo uma API de taxas de câmbio em tempo real / utilizando taxas fixas para fins didáticos].
+O objetivo principal foi desenvolver um **Conversor de Moedas** funcional utilizando a linguagem Java. O sistema permite a conversão de valores entre diferentes moedas internacionais e o Real Brasileiro (BRL), consumindo uma API de taxas de câmbio em tempo real / utilizando taxas fixas para fins didáticos.
 
 
 ## ⚙️ Funcionalidades
